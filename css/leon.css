@@ -366,7 +366,7 @@ body {
 }
 
 .about .about-content .image img {
-  width: 100%;
+  width: 300px;
   box-shadow: 2px 1px 2px 4px rgba(0, 0, 0, 0.4),
     -1px -1px 2px 4px rgba(0, 0, 0, 0.4);
 }
