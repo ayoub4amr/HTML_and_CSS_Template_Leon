@@ -362,7 +362,7 @@ body {
 
 .about .about-content .image {
   width: 300px;
-  /* position: relative; */
+  position: relative;
 }
 
 .about .about-content .image img {
@@ -371,7 +371,7 @@ body {
     -1px -1px 2px 4px rgba(0, 0, 0, 0.4);
 }
 
-/* .about .about-content .image::before {
+.about .about-content .image::before {
   content: "";
   background-color: var(--main-color);
   height: calc(100% + 80px);
@@ -392,7 +392,7 @@ body {
   top: -40px;
   right: -80px;
   z-index: -1;
-} */
+}
 
 .about .about-content .text {
   max-width: 500px;
